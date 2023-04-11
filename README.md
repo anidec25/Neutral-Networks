@@ -4,3 +4,6 @@ In this module we will be dicussing about all the topics related to Netural Netw
 
 Topics Covered:
 1. Perceptron
+2. How to train a perceptron.
+3. Perceptron Loss | Hinge Loss | Binary Cross Entropy | Sigmoid Function
+
